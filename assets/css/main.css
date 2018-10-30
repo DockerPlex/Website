@@ -1,13 +1,1 @@
 @import url("normalize.css");
-
-.mdl-layout__header {
-  color: #FFF !important;
-}
-
-.mdl-layout__header-row .mdl-navigation__link {
-  color: #FFF !important;
-}
-
-.mdl-layout__header .mdl-layout__drawer-button {
-  color: #FFF !important;
-}
